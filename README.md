@@ -7,8 +7,8 @@ This was developed to solve the simple issue of converting CIDR ranges to lists 
 
 # Install
 ```
-sudo wget https://github.com/DaddyBigFish/smbme/raw/refs/heads/main/smbme -O /usr/local/bin/smbme
-sudo chmod +x /usr/local/bin/smbme
+sudo wget https://github.com/DaddyBigFish/cidr2list/raw/refs/heads/main/cidr2list -O /usr/local/bin/cidr2list
+sudo chmod +x /usr/local/bin/cidr2list
 ```
 # Usage
 ```
